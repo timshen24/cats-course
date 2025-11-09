@@ -143,6 +143,9 @@ project/plugins/project/
 .history
 .cache
 .lib/
+.idea
+.gitignore
+project
 
 ### Scala ###
 
